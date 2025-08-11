@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+test_calculator.py::test_add_post_num,test_calculator,test_add_post_num,test_calculator.py,,,passed,,0.0001640999998926418
+test_calculator.py::test_add_neg_num,test_calculator,test_add_neg_num,test_calculator.py,,,passed,,0.00012260000039532315
+test_calculator.py::test_sub_ne_num,test_calculator,test_sub_ne_num,test_calculator.py,,,passed,,0.00011329999961162684
+test_calculator.py::test_div_neg_num,test_calculator,test_div_neg_num,test_calculator.py,,,passed,,0.00011009999980160501
